@@ -1,0 +1,13 @@
+coffee vending machine:
+
+
+This machine helps people reduce efforts and time in preparing coffee for themselves and also serves the flavour / recipe of their choice.
+
+* This system can be used by : Employees working for a company , by any indivisuals,at workplace .
+* The client if its a company then they can feed the machine with ingredients and recipe of their choice .
+* The employees can make the payment for the same using the card that is provided by the comapany and enjoy the coffee of their choice, each time they buy one the amount will be automatically deducted and the balance amount will be displayd.
+* The client can add different recipe , and also different dispenser will added to the machine to supply the requirments without any delays.
+* Only the company owner or the client can add and remove recipe , all employees with card or cash can access the machine and get their coffees prepared.
+* if cash used by the user the machine will automatically calculate and return back the balance .
+* The admin needs to keep an count on amount of ingredients present.
+
